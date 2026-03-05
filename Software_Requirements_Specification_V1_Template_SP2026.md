@@ -197,6 +197,9 @@ The team will follow Agile Scrum methodology with 3-week sprints, sprint plannin
 | BR4 | Enhance customer satisfaction with faster processing | S |
 | BR5 | Provide management reporting capabilities | S |
 | BR6 | Support future expansion (cloud, online payments) | C |
+| BR7 | Give users suggestions based on previously rented items | C |
+| BR8 | Add Website theming or accessibility options for those who prefer personalization or are disabled (background color, high contrast, screen reader) | C |
+| BR9 | The Website should have a support bot that users can chat to if they encounter problems with the website or purchasing rentals | W |
 
 ---
 
