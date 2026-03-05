@@ -216,6 +216,7 @@ The team will follow Agile Scrum methodology with 3-week sprints, sprint plannin
 | UR7 | Track payment details | M |
 | UR8 | View rental and payment history | S |
 | UR9 | Generate basic reports | C |
+| UR10 | Website theming & personalization | C |
 
 ---
 
